@@ -1,0 +1,7 @@
+Setup 
+
+1. Duplicate the .env.example file and rename it to .env.
+2. Update the database parameters in .env (consider creating a new database for this app).
+Database Setup:
+3. run: php artisan migrate (to set up the database tables).
+4. run the Server: php artisan serve 
